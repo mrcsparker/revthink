@@ -1,12 +1,10 @@
 package revthink
 
 import (
-	"encoding/json"
 	"errors"
 	"fmt"
 	r "github.com/dancannon/gorethink"
 	"github.com/revel/revel"
-	"io/ioutil"
 )
 
 var (
